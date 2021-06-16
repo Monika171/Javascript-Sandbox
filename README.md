@@ -1,2 +1,11 @@
-#MyApp
-This is just a test app!
+- Ajax, XHR
+- Ajax, JSON
+- Data from external API
+- REST APIs & HTTP Requests
+- Callback Functions
+- Custom HTTP Library (Ajax, callback)
+- ES6 Promises
+- The Fetch API
+- Custom HTTP Library (Fetch, Promises)
+- Async & Await
+- Custom HTTP Library (Fetch, Async Await )
