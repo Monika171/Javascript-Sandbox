@@ -8,4 +8,4 @@
 - The Fetch API
 - Custom HTTP Library (Fetch, Promises)
 - Async & Await
-- Custom HTTP Library (Fetch, Async Await )
+- Custom HTTP Library (Fetch, Async Await)
